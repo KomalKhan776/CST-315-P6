@@ -28,21 +28,21 @@ g++ Project6.cpp -o Project6
 ./Project6
 
 ## Commands to run
-ls
-mkdir temp
-cd temp
-touch file1
-touch file2
-mkdir temp1
-ls
-cd temp1
-touch fileA
-ls
-rm fileA
-cd ..
-rmdir temp1
-cd ..
-ls
+-ls
+-mkdir temp
+-cd temp
+-touch file1
+-touch file2
+-mkdir temp1
+-ls
+-cd temp1
+-touch fileA
+-ls
+-rm fileA
+-cd ..
+-rmdir temp1
+-cd ..
+-ls
 
 ## Notes
 - The directory must be empty before using rmdir
