@@ -21,11 +21,10 @@ The file system uses a hierarchical tree structure.
 - Linux / Ubuntu
 - g++ compiler
 
-## Compile
-g++ Project6.cpp -o Project6
-
-## Run
-./Project6
+## Compile and Run
+- Code from [Project6.cpp](Project6.cpp)
+- To run type g++ Project6.cpp -o Project6
+- ./Project6
 
 ## Commands to run
 - ls
